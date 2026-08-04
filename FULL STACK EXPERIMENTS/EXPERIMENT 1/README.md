@@ -1,4 +1,4 @@
-# EXPERIMETN 1
+# EXPERIMENT 1
 
 This repository contains the React.js experiments completed as part of the **Full Stack Development (FSD)** laboratory. The experiments demonstrate fundamental React concepts such as components, props, JSX, state management using Hooks, event handling, forms, and dynamic rendering.
 This repository contains the React.js experiments completed as part of the **Full Stack Development (FSD)** laboratory. The experiments cover the core concepts of React including components, JSX, props, state management using Hooks, event handling, forms, API integration, conditional rendering, and dynamic list rendering.
